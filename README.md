@@ -43,7 +43,7 @@
 
 |Repository | Project description|
 |-----------|--------------------|
-| ashw11n/Python-Finance-Project  | content cell       |
+| <a href="https://github.com/ashw11n/Python-Finance-Project"> ashw11n/Python-Finance-Project | content cell       |
 | content   | content cell       |
 | content   | content cell       |
 | content   | content cell       |
