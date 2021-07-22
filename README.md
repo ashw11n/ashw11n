@@ -43,7 +43,7 @@
 
 |Repository | Project description|
 |-----------|--------------------|
-| content   | content cell       |
+| ashw11n/Python-Finance-Project  | content cell       |
 | content   | content cell       |
 | content   | content cell       |
 | content   | content cell       |
