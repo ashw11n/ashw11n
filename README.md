@@ -44,9 +44,9 @@
 |Repository | Project description|
 |-----------|--------------------|
 | <a href="https://github.com/ashw11n/Python-Finance-Project"> ashw11n/Python-Finance-Project | content cell       |
-| < a href= "https://github.com/ashw11n/personal-Website"> ashw11n/personal-website  | content cell       |
-| < a href= "https://github.com/ashw11n/Facial-Recognition-Project"> ashw11n/Facial-Recognition-Project   | content cell       |
-|< a href= "https://github.com/ashw11n/password-GUI"> ashw11n/password-GUI  | content cell       |
+| <a href= "https://github.com/ashw11n/personal-Website"> ashw11n/personal-website </a> | content cell       |
+| <a href= "https://github.com/ashw11n/Facial-Recognition-Project"> ashw11n/Facial-Recognition-Project </a>   | content cell       |
+|<a href= "https://github.com/ashw11n/password-GUI"> ashw11n/password-GUI  | content cell       |
 
 
 
