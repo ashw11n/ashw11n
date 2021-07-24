@@ -46,7 +46,7 @@
 | <a href="https://github.com/ashw11n/Python-Finance-Project"> ashw11n/Python Webscraping and Stock Price Prediction | :rocket:Created stock price predictor for next several years of a given ticker from the SNP500; Tools: Python, Pandas, numpy, Matplotlib|
 | <a href= "https://github.com/ashw11n/personal-Website"> ashw11n/personal-website </a> | 🎭 Created personal portfolio website with CSS, HTML, and Python|
 | <a href= "https://github.com/ashw11n/Facial-Recognition-Project"> ashw11n/Facial-Recognition-Project </a> | 👨‍👦 Used OpenCV and Python to create facial recognition and detection software |
-|<a href= "https://github.com/ashw11n/password-GUI"> ashw11n/Passwor-Generator  | Randomized password generator mini project using C++|
+|<a href= "https://github.com/ashw11n/password-GUI"> ashw11n/Password-Generator  | Randomized password generator mini project using C++|
 
 
 
